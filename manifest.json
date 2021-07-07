@@ -6,7 +6,7 @@
         "en": "A simple app, without code, without conf, just for test your code",
         "fr": "Une app simple, sans code, sans configuration, juste pour tester votre code"
     },
-    "version": "1.0~ynh1",
+    "version": "1.2~ynh1",
     "upstream": {
         "code": "https://github.com/lelibreauquotidien/test_ynh"
     },

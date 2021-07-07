@@ -10,7 +10,7 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 A simple app, without code, without conf, just for test your code
 
-**Shipped version:** 1.0~ynh1
+**Shipped version:** 1.2~ynh1
 
 
 ## Usage
